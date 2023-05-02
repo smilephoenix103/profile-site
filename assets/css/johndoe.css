@@ -11539,7 +11539,7 @@ pre .code {
 .header .header-content .header-title {
   font-size: calc(40px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
-  line-height: .7;
+  line-height: 1.0;
   margin-bottom: 25px;
   color: inherit;
 }
@@ -11604,7 +11604,7 @@ pre .code {
 }
 
 .section.bg-custom-gray {
-  background: rgba(242, 244, 247, 0.15);
+  background: rgb(191 192 193);
 }
 
 .about-section {
